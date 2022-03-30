@@ -19,4 +19,9 @@ NETCONF PROTOCOL LAYERS
 NETCONF uses SSH port number 830 as the default port. The port number is a configurable option. NETCONF also supports capability discovery and model downloads. 
 
 The following command is used to say hello to the device, the port 830 is used to connect through Netconf. 
-ssh netcfg_user@172.29.6.186 -p 830 -s  netconf # netcfg_user is netconf user. 
+
+
+
+ssh netcfg_user@172.29.6.186 -p 830 -s  netconf 
+
+# netcfg_user is netconf user. 
