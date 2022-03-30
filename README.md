@@ -22,6 +22,6 @@ The following command is used to say hello to the device, the port 830 is used t
 
 
 
-ssh netcfg_user@172.29.6.186 -p 830 -s  netconf 
+# ssh netcfg_user@172.29.6.186 -p 830 -s  netconf 
 
-# netcfg_user is netconf user. 
+netcfg_user is netconf user. 
