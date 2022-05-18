@@ -1,5 +1,5 @@
 # sample_netconf_connection
-how to connect to device through netconf and get data. 
+How to connect to device through netconf and get data. 
 
 The Network Configuration Protocol (NETCONF) is a network management protocol developed and standardized by the IETF. It was developed in the NETCONF working group[1] and published in December 2006 as RFC 4741[2] and later revised in June 2011 and published as RFC 6241.[3] The NETCONF protocol specification is an Internet Standards Track document.
 
